@@ -8,6 +8,11 @@ This server can handle interleaving and delays which are added to tcpclient.c
 
 ---
 
+## 🎬 Demo
+
+![Event-Driven TCP Server Demo](async-demo.gif)
+
+
 ## 📁 Project Layout
 
 - `tcpclient.c` — TCP client implementation (with optional delays)

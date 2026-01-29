@@ -1,6 +1,10 @@
 ## 🌐 TCP Handshake Simulation (Client-Server Model)
 This project demonstrates a simplified, single-threaded TCP handshake between a client and a server using raw sockets in C. The communication follows a 3-step numeric message protocol designed for learning low-level network programming.
 
+## 🎬 Demo
+
+![Single-threaded TCP Server Demo](singlethreaded-demo.gif)
+
 ## 🤝 Protocol Overview
 Goal: Simulate a simple number-based handshake using TCP sockets.
 
